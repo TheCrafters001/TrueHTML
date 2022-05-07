@@ -18,6 +18,7 @@
     <PackageReference Include="Autoupdater.NET.Official" Version="1.7.0" />
     <PackageReference Include="DarkModeUI" Version="3.1.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Sara-FCTB" Version="2.16.26.105" />
     <PackageReference Include="Serilog" Version="2.11.0" />
   </ItemGroup>
 
