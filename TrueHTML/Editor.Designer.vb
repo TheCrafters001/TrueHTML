@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
-Partial Class Form1
+Partial Class Editor
     Inherits DarkUI.Forms.DarkForm
 
     'Form overrides dispose to clean up the component list.
